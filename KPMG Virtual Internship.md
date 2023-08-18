@@ -1,4 +1,4 @@
-I've compiled my journey through the KPMG Data Analytics Program, showcasing my skills as a Harvard-trained data analyst. This collection highlights my ability to handle complex data and collaborate effectively with KPMG's data analytics team for impactful business results.
+I've compiled my journey through the KPMG Data Analytics Program, showcasing my skills as a  data analyst. This collection highlights my ability to handle complex data and collaborate effectively with KPMG's data analytics team for impactful business results.
 
 Task 01 - Checking Data Quality
 At the start, I carefully checked data accuracy and completeness, using Python tools like Pandas and Numpy. I found and fixed issues, sharing solutions through emails.
