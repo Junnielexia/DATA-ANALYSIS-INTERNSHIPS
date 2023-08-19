@@ -103,6 +103,7 @@ Visualizing the "Sum of Satisfaction Rating by Agent" enables the business to as
 
 Visualizing the "Total Calls by Topic and Resolved Yes/No" allows the business to understand call volume distribution across different topics and evaluate the resolution rate, helping identify trending issues, measure agent performance, and enhance overall customer support efficiency.
 
+
 ![Screenshot (207)](https://github.com/Junnielexia/POWER-BI-FULL-PROJECTS/assets/95970546/cc762639-7020-4b34-8f60-ac380ed4aee7)
 
 ## Abandonment Rate by Topic":
